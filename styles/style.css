@@ -1,0 +1,88 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #fafafacb;
+}
+.container-fluid {
+  background: #264653;
+}
+.nav-iteams {
+}
+small {
+  color: #ffffff;
+  font-weight: 150;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: start;
+}
+.p-text {
+  font-weight: 150;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: start;
+}
+h1 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+
+.purchase-btn {
+  background: #e76f51;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.modal-body {
+  color: #000000;
+}
+.feature h1 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #000000;
+}
+span {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  color: #e76f51;
+}
+#feature {
+  filter: grayscale(1);
+}
+.byk {
+  width: 100%;
+}
+picture img {
+  width: 288px;
+  height: 243px;
+}
+#headings {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+.card img {
+  width: 149px;
+  height: 149px;
+}
+.card-body p {
+  font-size: 20px;
+  line-height: 26px;
+  color: #6c6c6c;
+}
+.star {
+  color: #e77c40;
+}
+article {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 300;
+  background: #d9e7ec;
+  opacity: 0.5;
+}
